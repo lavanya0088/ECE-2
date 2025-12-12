@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css"
+    <title>Mixed List</title>
+</head>
+<body>
+<ol>
+<li>Register Account
+<ul>
+<li>Enter email</li>
+<li>Verify OTP</li>
+</ul>
+<li>Chosse a plan</li>
+<li>Start using the app</li>
+</li>
+</ol>
+</body>
+</html>
